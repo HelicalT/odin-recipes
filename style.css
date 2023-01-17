@@ -1,0 +1,27 @@
+.title {
+    font-size: 48px;
+    color: yellow;
+    background-color: black;
+}
+
+.link {
+    font-weight: 900;
+}
+
+.link.one {
+    background-color: green;
+    color: red;
+    font-size: 22px;
+}
+
+.link.two {
+    background-color: teal;
+    color: yellow;
+    font-size: 28px;
+}
+
+.link.three {
+    background-color: white;
+    color: pink;
+    font-size: 14px;
+}
